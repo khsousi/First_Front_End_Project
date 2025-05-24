@@ -239,6 +239,7 @@ ul{
 .header .mega-menu .links li:hover::before{
     width: 100%;
 }
+
 .header .mega-menu .links li a {
     color: var(--main-color);
     padding: 15px;
@@ -250,6 +251,7 @@ ul{
     margin-right: 10px ;
 }
 /*End Header*/
+
 
 /*Start Landing*/
 .landing{
@@ -391,8 +393,11 @@ position: relative;
 .articles .box:hover .info i {
     animation: moving-arrow 0.6s linear infinite ;
 }
+
 /*End Articles*/
+
 /*Start Gallery*/
+
 .gallery{
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
@@ -517,6 +522,7 @@ position: relative;
     transition: var(--main-transation);
 
 }
+
 /*****************************/
 .features .quality .img-holder::before{
     background-color: rgb(244 64 54 / 50%);
@@ -572,6 +578,7 @@ position: relative;
     background-position: left bottom;
     color: white;
 } 
+
 /* End Features */
 
 /* Start Testimonials */
